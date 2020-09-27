@@ -66,5 +66,7 @@
 <small>**Last Update:** `{val-clup}`</small>
 
 <hr/>
-   
-`Last Checked: {val-lv}`
+
+![Update the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
+
+`Last Updated: {val-lv}`

@@ -33,6 +33,8 @@ const main = async () => {
 
     const country= await countryData('Pakistan')
 
+    const dateUp = new Date().toLocaleString()
+
     const readme = readmeTemplate
         .replace("{val-gc}", global[0])
         .replace("{val-gr}", global[1])
@@ -42,7 +44,7 @@ const main = async () => {
         .replace("{val-cr}", country[1])
         .replace("{val-cd}", country[2])
         .replace("{val-clup}", country[3])
-        .replace("{val-lv}", new Date().toLocaleString())
+        .replace("{val-lv}", dateUp)
 
     await fs.writeFile("README.md", readme);
 

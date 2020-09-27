@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm _UmarGit_ 🚀 (aka Umar Ahmed)</h1>
+<h1 align="center">Hi 👋, I'm <i>UmarGit</i> 🚀 (aka Umar Ahmed)</h1>
 <h3 align="center">A Student | Mentor | Full Stacks Developer | React.js | Vue.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umargit" alt="umargit" /> </p>
@@ -67,4 +67,4 @@
 
 <hr/>
    
-`Last Viewed: 9/27/2020, 11:30:06 PM`
+`Last Checked: 9/28/2020, 4:36:50 AM`

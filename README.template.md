@@ -32,9 +32,9 @@
     <a href="https://medium.com/@umarsheikh303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@umarsheikh303" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/umar ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="umar ahmed" height="30" width="40" /></a>
 </div>
-
+<br/><br/>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umargit&layout=compact" alt="umargit" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umargit&layout=compact" alt="umargit" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=umargit&show_icons=true" alt="umargit" />
 </p>
 

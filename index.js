@@ -1,9 +1,9 @@
-require("isomorphic-unfetch");
+import "isomorphic-unfetch";
 require("dotenv").config();
-const express = require("express");
-const path = require("path");
+import express from "express";
+import { join } from "path";
 
-const { promises: fs } = require("fs");
+import { promises as fs } from "fs";
 
 const app = express();
 
@@ -26,7 +26,7 @@ const globalData = async () => {
 const main = async () => {
 
     const readmeTemplate = (
-        await fs.readFile(path.join(process.cwd(), "./README.template.md"))
+        await fs.readFile(join(process.cwd(), "./README.template.md"))
     ).toString("utf-8");
 
     const global = await globalData()

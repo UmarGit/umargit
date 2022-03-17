@@ -42,9 +42,9 @@
 
 | Confirmed  | Recovered | Deaths |
 | -------- | -------- | -------- |
-| 461028335  | 0 | 6050750  |
+| 462711998  | 0 | 6057272  |
 
-<small>**Last Update:** `2022-03-16T00:20:57.000Z`</small>
+<small>**Last Update:** `2022-03-17T00:20:55.000Z`</small>
 
 <hr/>
 
@@ -54,12 +54,12 @@
 
 | Confirmed  | Recovered | Deaths |
 | -------- | -------- | -------- |
-| 1519627  | 0 | 30313  |
+| 1520120  | 0 | 30317  |
 
-<small>**Last Update:** `2022-03-16T00:20:57.000Z`</small>
+<small>**Last Update:** `2022-03-17T00:20:55.000Z`</small>
 
 <hr/>
 
 ![Update the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/16/2022, 1:00:35 AM`
+`Last Updated: 3/17/2022, 12:59:18 AM`

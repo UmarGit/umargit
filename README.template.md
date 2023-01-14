@@ -5,21 +5,16 @@
 
 - 🔭 I’m currently working on **Syndrect**
 
-- 🌱 I’m currently learning **React.js | Vue.js | As Full Stacks**
-
-- 👨‍💻 All of my projects are available at [https://umargit.github.io/](https://umargit.github.io/)
-
-- 📝 I regulary write articles on [https://dev.to/umargit](https://dev.to/umargit)
+- 🌱 I’m currently learning **React.js | Vue.js** and a lot more
 
 - 💬 Ask me about **react, vue, graphql, python, java, javascript and much more 🤩**
 
-- 📫 How to reach me **umarahmed@gamatechs.me**
+- 📫 How to reach me **umarsheikh303@gmail.com**
 
-- ⚡ Fun fact **I think all peoples are Dev Sultans !**
+- ⚡ Fun fact **I am a Google Developer !**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h2 align="left">Qoute of the day:</h2>
+<h3 align="center">{random-quote-0001}</h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -30,36 +25,11 @@
     <a href="https://fb.com/umarahmed303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="umarahmed303" height="30" width="40" /></a>
     <a href="https://instagram.com/umarsheikh_303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="umarsheikh_303" height="30" width="40" /></a>
     <a href="https://medium.com/@umarsheikh303" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@umarsheikh303" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/umar ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="umar ahmed" height="30" width="40" /></a>
+    <a href="https://youtube.com/@_umarahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="umar ahmed" height="30" width="40" /></a>
 </div>
-<br/><br/>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umargit&layout=compact" alt="umargit" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=umargit&show_icons=true" alt="umargit" />
-</p>
 
-## **Daily CoronaVirus Global Data**
+</br>
 
-| Confirmed  | Recovered | Deaths |
-| -------- | -------- | -------- |
-| {val-gc}  | {val-gr} | {val-gd}  |
-
-<small>**Last Update:** `{val-glup}`</small>
-
-<hr/>
-
-## **Daily CoronaVirus Country Data**
-
-#### _Pakistan_
-
-| Confirmed  | Recovered | Deaths |
-| -------- | -------- | -------- |
-| {val-cc}  | {val-cr} | {val-cd}  |
-
-<small>**Last Update:** `{val-clup}`</small>
-
-<hr/>
-
-![Update the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
+![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
 `Last Updated: {val-lv}`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.&rdquo; &mdash; <footer>Billie Jean King</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Whatever your mind can conceive and believe, it can achieve.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 14/01/2023, 15:16:13`
+`Last Updated: 1/14/2023, 10:21:08 AM`

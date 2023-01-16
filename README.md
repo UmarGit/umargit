@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Life is a series of choices and all we can do is make them.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/15/2023, 1:11:03 AM`
+`Last Updated: 1/16/2023, 1:07:08 AM`

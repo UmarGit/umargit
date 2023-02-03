@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The real meditation is how you live your life.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;We will act consistently with our view of who we truly are, whether that view is accurate or not.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/2/2023, 1:10:21 AM`
+`Last Updated: 2/3/2023, 1:11:11 AM`

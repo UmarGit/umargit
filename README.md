@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The secret of success lies not in doing your own work, but in recognizing the right man to do it.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Manifest plainness, embrace simplicity, reduce selfishness, have few desires.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/4/2023, 1:06:09 AM`
+`Last Updated: 2/5/2023, 1:13:33 AM`

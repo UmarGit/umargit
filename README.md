@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Dreams are the touchstones of our characters.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Do not be so open-minded that your brains fall out.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/7/2023, 1:07:42 AM`
+`Last Updated: 2/8/2023, 1:09:34 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;There is only the one reality, neither to be realized nor attained.&rdquo; &mdash; <footer>Huang Po</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;When you can't make them see the light, make them feel the heat.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/14/2023, 1:11:29 AM`
+`Last Updated: 2/15/2023, 1:11:04 AM`

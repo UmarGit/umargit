@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/16/2023, 1:11:04 AM`
+`Last Updated: 2/17/2023, 1:14:14 AM`

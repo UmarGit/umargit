@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Whatever your heart clings to and confides in, that is really your God.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Speak when you are angry - and you'll make the best speech you'll ever regret.&rdquo; &mdash; <footer>Laurence J. Peter</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/23/2023, 1:08:15 AM`
+`Last Updated: 2/24/2023, 1:10:11 AM`

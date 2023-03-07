@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Less is more.&rdquo; &mdash; <footer>Robert Browning</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/6/2023, 1:11:47 AM`
+`Last Updated: 3/7/2023, 1:16:53 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The ones who are crazy enough to think they can change the world, are the ones that do.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;It is up to each of us to sing as we feel moved by the overall song of life.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/8/2023, 1:14:50 AM`
+`Last Updated: 3/9/2023, 1:14:19 AM`

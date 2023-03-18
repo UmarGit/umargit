@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;No great mind has ever existed without a touch of madness.&rdquo; &mdash; <footer>Aristotle</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/17/2023, 1:08:22 AM`
+`Last Updated: 3/18/2023, 1:07:12 AM`

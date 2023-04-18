@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Life is essentially an endless series of problems. The solution to one problem is merely the creation of another.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Life isn't about finding yourself. Life is about creating yourself.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/17/2023, 1:03:50 AM`
+`Last Updated: 4/18/2023, 1:01:24 AM`

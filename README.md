@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;He who laughs at himself never runs out of things to laugh at.&rdquo; &mdash; <footer>Epictetus</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;It is well known that those who do not trust themselves never trust others.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/22/2023, 1:03:04 AM`
+`Last Updated: 4/23/2023, 1:09:21 AM`

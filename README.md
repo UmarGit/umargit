@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;A clear conscience is the sure sign of a bad memory.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The measure of who we are is what we do with what we have.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/8/2023, 1:01:46 AM`
+`Last Updated: 5/9/2023, 1:04:52 AM`

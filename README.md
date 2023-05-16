@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Patience is a bitter plant, but its fruit is sweet.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you want things to be different, perhaps the answer is to become different yourself.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/15/2023, 1:05:54 AM`
+`Last Updated: 5/16/2023, 1:04:39 AM`

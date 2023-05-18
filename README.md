@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;A wise man will be master of his mind, a fool will be its slave.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/17/2023, 1:06:14 AM`
+`Last Updated: 5/18/2023, 1:03:38 AM`

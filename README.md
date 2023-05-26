@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;What do we live for if not to make life less difficult for each other?&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/25/2023, 1:04:52 AM`
+`Last Updated: 5/26/2023, 1:03:42 AM`

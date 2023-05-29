@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;There is a wisdom of the head, and there is a wisdom of the heart.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Success is getting what you want... Happiness is wanting what you get.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/28/2023, 1:11:32 AM`
+`Last Updated: 5/29/2023, 1:07:26 AM`

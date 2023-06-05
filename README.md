@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;We take care of the future best by taking care of the present now.&rdquo; &mdash; <footer>Jon Kabat-Zinn</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/4/2023, 1:24:34 AM`
+`Last Updated: 6/5/2023, 1:13:45 AM`

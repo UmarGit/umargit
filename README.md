@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Success is often achieved by those who don't know that failure is inevitable.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/13/2023, 1:12:27 AM`
+`Last Updated: 6/14/2023, 1:10:22 AM`

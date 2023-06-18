@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;I admire those who do good and expect nothing in return.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/17/2023, 1:06:58 AM`
+`Last Updated: 6/18/2023, 1:20:13 AM`

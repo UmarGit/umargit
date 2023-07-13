@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;When reading, only read. When eating, only eat. When thinking, only think.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you love life, don't waste time, for time is what life is made up of. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/12/2023, 1:19:06 AM`
+`Last Updated: 7/13/2023, 1:22:28 AM`

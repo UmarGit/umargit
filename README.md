@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The longer we dwell on our misfortunes, the greater is their power to harm us.&rdquo; &mdash; <footer>Voltaire</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Don't wait for the right opportunity: create it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/18/2023, 1:42:32 AM`
+`Last Updated: 7/19/2023, 2:30:12 AM`

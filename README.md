@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It is truth that liberates, not your effort to be free.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/12/2023, 12:51:04 AM`
+`Last Updated: 8/13/2023, 12:54:56 AM`

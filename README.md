@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Sad thing is, you can still love someone and be wrong for them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/22/2023, 12:53:17 AM`
+`Last Updated: 8/23/2023, 12:52:33 AM`

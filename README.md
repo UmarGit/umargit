@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you want work well done, select a busy man; the other kind has no time.&rdquo; &mdash; <footer>Elbert Hubbard</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/5/2023, 12:52:47 AM`
+`Last Updated: 9/6/2023, 12:53:53 AM`

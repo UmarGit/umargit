@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;There is nothing more frightful than ignorance in action.&rdquo; &mdash; <footer>Johann Wolfgang von Goethe</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Time stays long enough for anyone who will use it.&rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/19/2023, 12:54:47 AM`
+`Last Updated: 9/20/2023, 12:54:28 AM`

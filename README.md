@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Knowing is not enough, we must apply. Willing is not enough, we must do.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;First learn the meaning of what you say, and then speak.&rdquo; &mdash; <footer>Epictetus</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/23/2023, 12:52:53 AM`
+`Last Updated: 9/24/2023, 12:57:25 AM`

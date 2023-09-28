@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Tradition is the illusion of permanence. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The attempt to escape from pain, is what creates more pain.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/27/2023, 12:55:05 AM`
+`Last Updated: 9/28/2023, 12:54:30 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/29/2023, 12:54:46 AM`
+`Last Updated: 9/30/2023, 12:53:28 AM`

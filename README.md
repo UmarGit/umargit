@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. &rdquo; &mdash; <footer>Orison Swett Marden</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Don't shortchange yourself when it comes to investing in your own better future.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/10/2023, 12:54:40 AM`
+`Last Updated: 10/11/2023, 12:54:49 AM`

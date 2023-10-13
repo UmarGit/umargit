@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The only thing new in the world is the history you do not know.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/12/2023, 12:53:07 AM`
+`Last Updated: 10/13/2023, 12:56:30 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Eighty percent of success is showing up. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You play the hand you're dealt. I think the game's worthwhile.  &rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/19/2023, 12:55:12 AM`
+`Last Updated: 10/20/2023, 12:55:03 AM`

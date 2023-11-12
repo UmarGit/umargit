@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If what you're doing is not your passion, you have nothing to lose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/11/2023, 12:55:12 AM`
+`Last Updated: 11/12/2023, 1:00:02 AM`

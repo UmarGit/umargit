@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt.&rdquo; &mdash; <footer>Honore de Balzac</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;When you know what you want, and want it bad enough, you will find a way to get it.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/20/2023, 12:58:49 AM`
+`Last Updated: 11/21/2023, 12:59:02 AM`

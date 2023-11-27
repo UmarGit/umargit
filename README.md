@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;I live by letting things happen.&rdquo; &mdash; <footer>Dogen</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you don't like something, change it. If you can't change it, change your attitude.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/26/2023, 1:01:15 AM`
+`Last Updated: 11/27/2023, 12:58:18 AM`

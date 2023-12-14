@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&rdquo; &mdash; <footer>Amelia Earhart</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you want to make God laugh, tell him about your plans. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/13/2023, 12:58:42 AM`
+`Last Updated: 12/14/2023, 12:57:44 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If you want to make God laugh, tell him about your plans. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;There is no way to happiness - happiness is the way.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/14/2023, 12:57:44 AM`
+`Last Updated: 12/15/2023, 12:59:07 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Life is the art of drawing sufficient conclusions from insufficient premises.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;We have a choice everyday regarding the attitude we will embrace for that day.&rdquo; &mdash; <footer>Charles Swindoll</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/19/2023, 12:58:06 AM`
+`Last Updated: 12/20/2023, 12:47:51 AM`

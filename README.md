@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Strategy is a commodity, execution is an art.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Remember to look up at the stars and not down at your feet.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/12/2024, 12:59:36 AM`
+`Last Updated: 1/13/2024, 12:58:35 AM`

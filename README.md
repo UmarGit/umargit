@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The right thing to do and the hard thing to do are usually the same.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/18/2024, 12:58:42 AM`
+`Last Updated: 1/19/2024, 12:59:34 AM`

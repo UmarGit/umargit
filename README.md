@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Opportunities don't often come along. So, when they do, you have to grab them.&rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You can suffer the pain of change or suffer remaining the way you are.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/25/2024, 1:00:43 AM`
+`Last Updated: 1/26/2024, 12:55:39 AM`

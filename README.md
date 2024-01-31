@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Don't Let Yesterday Take Up Too Much Of Today.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You cannot always control what goes on outside. But you can always control what goes on inside. &rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/30/2024, 12:54:52 AM`
+`Last Updated: 1/31/2024, 12:55:28 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;It's the unknown we fear when we look upon death and darkness, nothing more.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/8/2024, 12:54:19 AM`
+`Last Updated: 2/9/2024, 12:54:26 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Loss is nothing else but change and change is nature's delight.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The greatest gift that you can give to others is the gift of unconditional love and acceptance. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/5/2024, 12:54:33 AM`
+`Last Updated: 3/6/2024, 12:54:49 AM`

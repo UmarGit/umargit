@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Understanding that rests in what it does not understand is the finest.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/10/2024, 12:58:29 AM`
+`Last Updated: 3/11/2024, 12:55:49 AM`

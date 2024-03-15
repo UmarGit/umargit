@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It's not what happens to you, but how you react to it that matters.&rdquo; &mdash; <footer>Epictetus</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/14/2024, 12:54:54 AM`
+`Last Updated: 3/15/2024, 12:55:27 AM`

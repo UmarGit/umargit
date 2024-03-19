@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;To find yourself, think for yourself.&rdquo; &mdash; <footer>Socrates</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Be as fluid as water, do not give your enemies anything solid to attack.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/18/2024, 12:56:08 AM`
+`Last Updated: 3/19/2024, 12:54:53 AM`

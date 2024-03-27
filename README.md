@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Change happens when the pain of holding on becomes greater than the fear of letting go.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;We build too many walls and not enough bridges.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/26/2024, 12:55:08 AM`
+`Last Updated: 3/27/2024, 12:55:10 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Faithless is he that says farewell when the road darkens.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/31/2024, 1:00:47 AM`
+`Last Updated: 4/1/2024, 1:00:58 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Being wrong opens us up to the possibility of change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/17/2024, 12:56:42 AM`
+`Last Updated: 4/18/2024, 12:55:49 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/22/2024, 12:58:36 AM`
+`Last Updated: 4/23/2024, 12:57:35 AM`

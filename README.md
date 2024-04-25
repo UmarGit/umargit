@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The way to love anything is to realize that it may be lost.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Big people don't make people feel small.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/24/2024, 12:57:38 AM`
+`Last Updated: 4/25/2024, 12:59:14 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The more you feed your mind with positive thoughts, the more you can attract great things into your life.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;She who loves roses must be patient and not cry out when she is pierced by thorns.&rdquo; &mdash; <footer>Kenji Miyazawa</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/29/2024, 12:58:20 AM`
+`Last Updated: 4/30/2024, 12:57:09 AM`

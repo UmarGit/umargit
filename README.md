@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;There are no ordinary moments.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;All life is an experiment. The more experiments you make, the better.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/4/2024, 12:57:14 AM`
+`Last Updated: 5/5/2024, 1:01:38 AM`

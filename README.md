@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;There's a very deep connection among human beings. All we have to do is open our minds to it.&rdquo; &mdash; <footer>Yanni</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Dreams are the touchstones of our characters.&rdquo; &mdash; <footer>Henry David Thoreau</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/15/2024, 12:59:28 AM`
+`Last Updated: 5/16/2024, 12:59:15 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Never was anything great achieved without danger.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Self-knowledge is the beginning of self-correction.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/23/2024, 12:59:11 AM`
+`Last Updated: 5/24/2024, 12:59:43 AM`

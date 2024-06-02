@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Change will not come if we wait for some other person, or if we wait for some other time.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/1/2024, 1:04:06 AM`
+`Last Updated: 6/2/2024, 1:04:35 AM`

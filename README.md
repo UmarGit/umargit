@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You don't need to be better than anyone else, you just need to be better than you used to be.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/11/2024, 1:02:06 AM`
+`Last Updated: 6/12/2024, 1:02:08 AM`

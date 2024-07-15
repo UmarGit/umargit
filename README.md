@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Don't let someone elses. opinion become your reality.&rdquo; &mdash; <footer>Les Brown</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Consider the rights of others before your own feelings, and the feelings of others before your own rights.&rdquo; &mdash; <footer>John Wooden</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/14/2024, 1:09:07 AM`
+`Last Updated: 7/15/2024, 1:05:44 AM`

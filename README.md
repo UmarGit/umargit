@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Be not glad at the misfortune of another, though he may be your enemy. &rdquo; &mdash; <footer>George Washington</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Good luck is opportunity meeting preparedness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/20/2024, 1:02:48 AM`
+`Last Updated: 7/21/2024, 1:09:04 AM`

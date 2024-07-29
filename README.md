@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;He who wishes to be obeyed must know how to command.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.&rdquo; &mdash; <footer>Epictetus</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/28/2024, 1:09:23 AM`
+`Last Updated: 7/29/2024, 1:06:05 AM`

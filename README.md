@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The consequences of today are determined by the actions of the past. To change your future, alter your decisions today.&rdquo; &mdash; <footer>Unknown</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/8/2024, 1:05:13 AM`
+`Last Updated: 8/9/2024, 1:06:10 AM`

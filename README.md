@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Begin at once to live, and count each separate day as a separate life.  &rdquo; &mdash; <footer>Seneca</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You do not read a book for the book's sake, but for your own.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/11/2024, 1:10:43 AM`
+`Last Updated: 8/12/2024, 1:07:16 AM`

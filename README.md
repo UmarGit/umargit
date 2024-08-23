@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The less you talk about your shame, the more of it you have.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/22/2024, 1:06:52 AM`
+`Last Updated: 8/23/2024, 1:05:46 AM`

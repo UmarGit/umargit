@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Every poem should remind the reader that they are going to die.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The season of failure is the best time for sowing the seeds of success. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/29/2024, 1:08:13 AM`
+`Last Updated: 8/30/2024, 1:08:17 AM`

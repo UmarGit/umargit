@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Greatness comes from living with purpose and passion.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.&rdquo; &mdash; <footer>Conrad Hilton</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/1/2024, 1:19:00 AM`
+`Last Updated: 9/2/2024, 1:09:58 AM`

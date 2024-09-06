@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;What you seek is seeking you.&rdquo; &mdash; <footer>Rumi</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;One always begins to forgive a place as soon as it's left behind.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/5/2024, 1:08:42 AM`
+`Last Updated: 9/6/2024, 1:08:42 AM`

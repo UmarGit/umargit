@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Remember to look up at the stars and not down at your feet.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/11/2024, 1:09:05 AM`
+`Last Updated: 9/12/2024, 1:09:19 AM`

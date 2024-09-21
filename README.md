@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It's not the men in your life that matters, it's the life in your men.&rdquo; &mdash; <footer>Mae West</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Experience is a comb which nature gives us when we are bald. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/20/2024, 1:10:42 AM`
+`Last Updated: 9/21/2024, 1:09:34 AM`

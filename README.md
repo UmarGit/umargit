@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Life is filled with secrets. You can't learn them all at once.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The deeper the truth in a creative work, the longer it will live.  &rdquo; &mdash; <footer>Charlie Chaplin</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/14/2024, 1:14:45 AM`
+`Last Updated: 10/15/2024, 1:13:45 AM`

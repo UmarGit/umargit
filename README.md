@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;A gentleman accepts the responsibility of his actions and bears the burden of their consequences.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/26/2024, 1:11:34 AM`
+`Last Updated: 10/27/2024, 1:18:26 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;When people are free to do as they please, they usually imitate each other.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/16/2024, 1:22:21 AM`
+`Last Updated: 12/17/2024, 1:19:34 AM`

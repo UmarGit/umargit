@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Success does not consist in never making mistakes but in never making the same one a second time.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;There are no mistakes in life, only lessons.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/30/2024, 1:15:22 AM`
+`Last Updated: 12/31/2024, 1:12:54 AM`

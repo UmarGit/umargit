@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Art, like morality, consists of drawing the line somewhere.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Enlightenment is intimacy with all things.&rdquo; &mdash; <footer>Dogen</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/4/2025, 1:11:53 AM`
+`Last Updated: 1/5/2025, 1:19:03 AM`

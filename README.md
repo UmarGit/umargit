@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;We tend to live up to our expectations.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The biggest adventure you can ever take is to live the life of your dreams. &rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/13/2025, 1:17:29 AM`
+`Last Updated: 1/14/2025, 1:10:23 AM`

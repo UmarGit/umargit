@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Stress happens when the mind resists what is.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you spend too much time thinking about a thing, you'll never get it done. &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/25/2025, 1:08:16 AM`
+`Last Updated: 1/26/2025, 1:13:48 AM`

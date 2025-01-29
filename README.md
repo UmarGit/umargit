@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Do not fight with pigs - you will be smeared in mud but the pig will like it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/28/2025, 1:11:26 AM`
+`Last Updated: 1/29/2025, 1:11:30 AM`

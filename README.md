@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;The primary point of this existence is to live, and all living things move and grow.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;There is a difference between giving directions and giving direction.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/4/2025, 1:16:19 AM`
+`Last Updated: 3/5/2025, 1:16:25 AM`

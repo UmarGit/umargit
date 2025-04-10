@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If the only prayer you ever say in your entire life is thank you, it will be enough.&rdquo; &mdash; <footer>Meister Eckhart</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Life is like riding a bicycle. To keep your balance you must keep moving.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/9/2025, 1:19:36 AM`
+`Last Updated: 4/10/2025, 1:19:16 AM`

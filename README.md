@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It's not how much money you make, it's how much money you keep.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/18/2025, 1:19:37 AM`
+`Last Updated: 4/19/2025, 1:17:26 AM`

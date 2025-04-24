@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Very little is needed to make a happy life; it is all within yourself, in your way of thinking.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/23/2025, 1:21:11 AM`
+`Last Updated: 4/24/2025, 1:21:22 AM`

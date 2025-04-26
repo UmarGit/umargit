@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Listen to what you know instead of what you fear.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Don't worry about being successful, but work toward being significant and the success will naturally follow.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/25/2025, 1:22:09 AM`
+`Last Updated: 4/26/2025, 1:18:59 AM`

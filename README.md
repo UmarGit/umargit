@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you try to micromanage yourself all you're going to do is make yourself miserable.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/2/2025, 1:22:23 AM`
+`Last Updated: 5/3/2025, 1:20:26 AM`

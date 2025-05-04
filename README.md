@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If you try to micromanage yourself all you're going to do is make yourself miserable.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/3/2025, 1:20:26 AM`
+`Last Updated: 5/4/2025, 1:37:47 AM`

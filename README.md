@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Sometimes, the only way to evolve is to open ourselves fully.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Not doing it is certainly the best way to not getting it.  &rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/14/2025, 1:23:20 AM`
+`Last Updated: 5/15/2025, 1:21:27 AM`

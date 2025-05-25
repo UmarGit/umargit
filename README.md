@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Everyone sees what you appear to be, few experience what you really are.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The pen is the tongue of the mind. &rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/24/2025, 1:21:28 AM`
+`Last Updated: 5/25/2025, 1:39:28 AM`

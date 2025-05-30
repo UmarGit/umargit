@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;We are what we repeatedly do. Excellence, then, is not an act, but a habit.&rdquo; &mdash; <footer>Aristotle</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;There is always risk, so learn to manage risk instead of avoiding it.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/29/2025, 1:24:57 AM`
+`Last Updated: 5/30/2025, 1:22:53 AM`

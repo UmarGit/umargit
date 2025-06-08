@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;When we allow negative messages to fester in our head, they take on a life of their own.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;To create more positive results in your life, replace 'if only' with 'next time'.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/7/2025, 1:24:38 AM`
+`Last Updated: 6/8/2025, 1:41:27 AM`

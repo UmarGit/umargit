@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If we all did the things we are capable of doing, we would literally astound ourselves.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;To be able to forget means sanity.&rdquo; &mdash; <footer>Jack London</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/11/2025, 1:27:04 AM`
+`Last Updated: 6/12/2025, 1:25:31 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;The divine is not something high above us. It is in heaven, it is in earth, it is inside us.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/2/2025, 1:27:17 AM`
+`Last Updated: 7/3/2025, 1:27:25 AM`

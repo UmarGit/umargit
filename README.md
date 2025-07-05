@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It's what you do in the present that will redeem the past and thereby change the future.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Do not pray for an easy life, pray for the strength to endure a difficult one.  &rdquo; &mdash; <footer>Bruce Lee</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/4/2025, 1:27:01 AM`
+`Last Updated: 7/5/2025, 1:24:17 AM`

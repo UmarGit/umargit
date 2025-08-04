@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Where violence reigns, reason is weak.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/3/2025, 1:50:51 AM`
+`Last Updated: 8/4/2025, 1:51:13 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;A lot of people have gone further than they thought they could because someone else thought they could.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You talk when you cease to be at peace with your thoughts.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/7/2025, 1:44:40 AM`
+`Last Updated: 8/8/2025, 1:44:13 AM`

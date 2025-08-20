@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;If you are going to achieve excellence in big things, you develop the habit in little matters.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/19/2025, 1:24:02 AM`
+`Last Updated: 8/20/2025, 1:22:16 AM`

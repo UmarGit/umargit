@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;It is not titles that honour men, but men that honour titles.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Any fool can turn a blind eye but who knows what the ostrich sees in the sand.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/22/2025, 1:22:11 AM`
+`Last Updated: 8/23/2025, 1:19:28 AM`

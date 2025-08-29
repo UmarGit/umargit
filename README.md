@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Do not ignore the passion that burns in you. Spend time to discover your gift.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Trust thyself: every heart vibrates to that iron string.&rdquo; &mdash; <footer>Ralph Waldo Emerson</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/28/2025, 1:19:43 AM`
+`Last Updated: 8/29/2025, 1:20:13 AM`

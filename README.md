@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Love is not about possession. Love is about appreciation.&rdquo; &mdash; <footer>Osho</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo; &mdash; <footer>Vidal Sassoon</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/26/2025, 1:18:14 AM`
+`Last Updated: 9/27/2025, 1:15:08 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Human happiness and moral duty are inseparably connected. &rdquo; &mdash; <footer>George Washington</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/4/2025, 1:14:23 AM`
+`Last Updated: 10/5/2025, 1:24:54 AM`

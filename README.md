@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;One of the keys to happiness is a bad memory.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;You need to be doing fewer things for more effect instead of doing more things with side effects.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/30/2025, 1:24:52 AM`
+`Last Updated: 10/31/2025, 1:22:21 AM`

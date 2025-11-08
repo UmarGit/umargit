@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;If you put water into a cup, it becomes the cup.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Sorrow is how we learn to love.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/7/2025, 1:23:50 AM`
+`Last Updated: 11/8/2025, 1:19:26 AM`

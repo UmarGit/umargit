@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Successful people tend to become more successful because they are always thinking about their successes.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;They who have conquered doubt and fear have conquered failure.&rdquo; &mdash; <footer>James Allen</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/10/2025, 1:26:56 AM`
+`Last Updated: 11/11/2025, 1:24:18 AM`

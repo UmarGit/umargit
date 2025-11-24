@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Wake up and smile! Wake up and be grateful!&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;Darkness is the absence of light.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/23/2025, 1:43:11 AM`
+`Last Updated: 11/24/2025, 1:38:25 AM`

@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am a Google Developer !**
 
 <h2 align="left">Qoute of the day:</h2>
-<h3 align="center"><blockquote>&ldquo;Within every desire is the mechanics of its fulfillment.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote></h3>
+<h3 align="center"><blockquote>&ldquo;To love means loving the unlovable.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote></h3>
 
 <div align="left">
     <h2 align="left">Connect with me:</h2>
@@ -32,4 +32,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/28/2025, 1:22:25 AM`
+`Last Updated: 11/29/2025, 1:22:46 AM`

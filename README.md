@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The eyes of others our prisons; their thoughts our cages.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
+### <blockquote>&ldquo;Stop comparing yourself to others and focus on your own improvement.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/4/2025, 9:09:41 PM`
+`Last Updated: 12/5/2025, 1:26:34 AM`

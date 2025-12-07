@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The one who praises you is a thief. The one who criticizes you is your true friend.&rdquo; &mdash; <footer>Seungsahn</footer></blockquote>
+### <blockquote>&ldquo;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&rdquo; &mdash; <footer>Grace Coddington</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/6/2025, 1:22:12 AM`
+`Last Updated: 12/7/2025, 1:42:52 AM`

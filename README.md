@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Always keep your eyes open. Keep watching. Because whatever you see can inspire you.&rdquo; &mdash; <footer>Grace Coddington</footer></blockquote>
+### <blockquote>&ldquo;Don't be afraid to stand for what you believe in, even if that means standing alone.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/7/2025, 1:42:52 AM`
+`Last Updated: 12/8/2025, 1:26:56 AM`

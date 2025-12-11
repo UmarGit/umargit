@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A tiger doesn't lose sleep over the opinion of sheep.&rdquo; &mdash; <footer>Shahir Zag</footer></blockquote>
+### <blockquote>&ldquo;Life is a journey, not a destination.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/10/2025, 1:37:51 AM`
+`Last Updated: 12/11/2025, 1:38:06 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Life is a journey, not a destination.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+### <blockquote>&ldquo;Never trust he who trusts everyone.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/11/2025, 1:38:06 AM`
+`Last Updated: 12/12/2025, 1:37:39 AM`

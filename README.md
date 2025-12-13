@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Never trust he who trusts everyone.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+### <blockquote>&ldquo;Being ignorant is not so much a shame, as being unwilling to learn.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/12/2025, 1:37:39 AM`
+`Last Updated: 12/13/2025, 1:24:06 AM`

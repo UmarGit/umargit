@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Being ignorant is not so much a shame, as being unwilling to learn.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+### <blockquote>&ldquo;The more you are grateful for what you have the more you will have to be grateful for.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/13/2025, 1:24:06 AM`
+`Last Updated: 12/14/2025, 1:43:13 AM`

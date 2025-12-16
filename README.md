@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;It is better to change an opinion than to persist in a wrong one.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+### <blockquote>&ldquo;Not all of us can do great things. But we can do small things with great love.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/15/2025, 1:41:30 AM`
+`Last Updated: 12/16/2025, 1:38:36 AM`

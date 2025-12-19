@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Concentrated power has always been the enemy of liberty.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>
+### <blockquote>&ldquo;Cease striving. Then there will be transformation.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/18/2025, 1:25:30 AM`
+`Last Updated: 12/19/2025, 1:37:54 AM`

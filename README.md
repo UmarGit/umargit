@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Man must use what he has, not hope for what is not.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>
+### <blockquote>&ldquo;Ask no questions, and you'll be told no lies.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/20/2025, 1:24:28 AM`
+`Last Updated: 12/21/2025, 1:43:27 AM`

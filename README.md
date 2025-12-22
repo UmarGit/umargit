@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Ask no questions, and you'll be told no lies.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>
+### <blockquote>&ldquo;It does not matter how slowly you go so long as you do not stop.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/21/2025, 1:43:27 AM`
+`Last Updated: 12/22/2025, 1:42:34 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The goal is not to show how great you are to others, but how vulnerable you are to yourself.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
+### <blockquote>&ldquo;No valid plans for the future can be made by those who have no capacity for living now.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/23/2025, 1:38:27 AM`
+`Last Updated: 12/24/2025, 1:37:02 AM`

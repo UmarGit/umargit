@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Peace is letting it be. Letting life flow, letting emotions flow through you.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>
+### <blockquote>&ldquo;To lead the people, walk behind them.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/25/2025, 1:38:37 AM`
+`Last Updated: 12/26/2025, 1:38:22 AM`

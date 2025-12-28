@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Lost Time is never found again.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>
+### <blockquote>&ldquo;We never know the love of a parent till we become parents ourselves.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/27/2025, 1:27:11 AM`
+`Last Updated: 12/28/2025, 1:47:59 AM`

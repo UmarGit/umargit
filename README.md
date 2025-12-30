@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Leadership starts at the top.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+### <blockquote>&ldquo;Life becomes easier and more beautiful when we can see the good in other people.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/29/2025, 1:46:34 AM`
+`Last Updated: 12/30/2025, 1:43:04 AM`

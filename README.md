@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Happiness cannot be traveled to, owned, earned, worn or consumed.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+### <blockquote>&ldquo;Nothing is particularly hard if you divide it into small jobs. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 12/31/2025, 1:39:40 AM`
+`Last Updated: 1/1/2026, 1:49:07 AM`

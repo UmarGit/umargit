@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Nothing is particularly hard if you divide it into small jobs. &rdquo; &mdash; <footer>Henry Ford</footer></blockquote>
+### <blockquote>&ldquo;Only I can change my life. No one can do it for me.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/1/2026, 1:49:07 AM`
+`Last Updated: 1/2/2026, 1:40:56 AM`

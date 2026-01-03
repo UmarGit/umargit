@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Only I can change my life. No one can do it for me.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>
+### <blockquote>&ldquo;Confidence is the greatest friend.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/2/2026, 1:40:56 AM`
+`Last Updated: 1/3/2026, 1:26:13 AM`

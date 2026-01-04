@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Confidence is the greatest friend.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+### <blockquote>&ldquo;Success is the sum of small efforts, repeated day in and day out.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/3/2026, 1:26:13 AM`
+`Last Updated: 1/4/2026, 1:49:26 AM`

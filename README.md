@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Success is the sum of small efforts, repeated day in and day out.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
+### <blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/4/2026, 1:49:26 AM`
+`Last Updated: 1/5/2026, 1:49:23 AM`

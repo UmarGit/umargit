@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Until we can manage time, we can manage nothing else.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>
+### <blockquote>&ldquo;The happiest people in the world are those who feel absolutely terrific about themselves.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/6/2026, 1:41:01 AM`
+`Last Updated: 1/7/2026, 1:40:45 AM`

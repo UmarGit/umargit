@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The happiest people in the world are those who feel absolutely terrific about themselves.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+### <blockquote>&ldquo;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/7/2026, 1:40:45 AM`
+`Last Updated: 1/8/2026, 1:41:00 AM`

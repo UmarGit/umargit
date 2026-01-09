@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Many people will walk in and out of your life, but only true friends will leave footprints in your heart.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;If you want peace, accept. If you want suffering, expect.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/8/2026, 1:41:00 AM`
+`Last Updated: 1/9/2026, 1:41:30 AM`

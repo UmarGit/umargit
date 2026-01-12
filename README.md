@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+### <blockquote>&ldquo;Every man is guilty of all the good he did not do. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/11/2026, 1:49:35 AM`
+`Last Updated: 1/12/2026, 1:46:00 AM`

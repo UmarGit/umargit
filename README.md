@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Every man is guilty of all the good he did not do. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+### <blockquote>&ldquo;The best revenge is to be unlike him who performed the injury.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/12/2026, 1:46:00 AM`
+`Last Updated: 1/13/2026, 1:38:01 AM`

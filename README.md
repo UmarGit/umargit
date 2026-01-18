@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Whoever is happy will make others happy too.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
+### <blockquote>&ldquo;Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/17/2026, 1:37:04 AM`
+`Last Updated: 1/18/2026, 1:48:06 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+### <blockquote>&ldquo;Perseverance and spirit have done wonders in all ages. &rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/18/2026, 1:48:06 AM`
+`Last Updated: 1/19/2026, 1:46:33 AM`

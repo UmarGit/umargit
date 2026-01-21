@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Silence is a source of great strength.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
+### <blockquote>&ldquo;If the plan doesn't work, change the plan, but never the goal.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/20/2026, 1:41:41 AM`
+`Last Updated: 1/21/2026, 1:44:45 AM`

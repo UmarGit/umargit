@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Change is hardest at the beginning, messiest in the middle and best at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+### <blockquote>&ldquo;Life isn't about finding yourself. Life is about creating yourself.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/23/2026, 1:41:37 AM`
+`Last Updated: 1/24/2026, 1:39:06 AM`

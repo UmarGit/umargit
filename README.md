@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Life isn't about finding yourself. Life is about creating yourself.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
+### <blockquote>&ldquo;Help others achieve their dreams and you will achieve yours.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/24/2026, 1:39:06 AM`
+`Last Updated: 1/25/2026, 1:51:10 AM`

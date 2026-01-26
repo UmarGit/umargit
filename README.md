@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Help others achieve their dreams and you will achieve yours.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+### <blockquote>&ldquo;Silence is sometimes the best answer.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/25/2026, 1:51:10 AM`
+`Last Updated: 1/26/2026, 1:50:38 AM`

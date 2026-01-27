@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Silence is sometimes the best answer.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>
+### <blockquote>&ldquo;Life moves on and so should we.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/26/2026, 1:50:38 AM`
+`Last Updated: 1/27/2026, 1:47:41 AM`

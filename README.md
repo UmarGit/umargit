@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The heart wants what it wants. There's no logic. &rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
+### <blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/28/2026, 1:44:04 AM`
+`Last Updated: 1/29/2026, 1:56:22 AM`

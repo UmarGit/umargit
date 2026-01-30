@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>
+### <blockquote>&ldquo;Sometimes you have to shut your eyes, so you can see the real beauty.&rdquo; &mdash; <footer>Kilian Jornet</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 1/29/2026, 1:56:22 AM`
+`Last Updated: 1/30/2026, 1:56:55 AM`

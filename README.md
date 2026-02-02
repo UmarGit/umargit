@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;What loneliness is more lonely than distrust?&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+### <blockquote>&ldquo;Stop wasting time defending your problems and work on addressing them instead.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/1/2026, 2:12:41 AM`
+`Last Updated: 2/2/2026, 2:04:38 AM`

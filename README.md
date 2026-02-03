@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Stop wasting time defending your problems and work on addressing them instead.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+### <blockquote>&ldquo;For changes to be of any true value, they've got to be lasting and consistent.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/2/2026, 2:04:38 AM`
+`Last Updated: 2/3/2026, 2:03:03 AM`

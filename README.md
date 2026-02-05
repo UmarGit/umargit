@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;May you live all the days of your life.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+### <blockquote>&ldquo;Friendship is like money, easier made than kept.&rdquo; &mdash; <footer>Samuel Butler</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/4/2026, 1:57:58 AM`
+`Last Updated: 2/5/2026, 1:59:38 AM`

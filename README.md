@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Any fool can turn a blind eye but who knows what the ostrich sees in the sand.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>
+### <blockquote>&ldquo;Courage is not having the strength to go on; it is going on when you don't have the strength.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/8/2026, 2:28:32 AM`
+`Last Updated: 2/9/2026, 2:06:35 AM`

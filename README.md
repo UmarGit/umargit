@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Courage is not having the strength to go on; it is going on when you don't have the strength.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;However difficult life may seem, there is always something you can do and succeed at.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/9/2026, 2:06:35 AM`
+`Last Updated: 2/10/2026, 2:22:58 AM`

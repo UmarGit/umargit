@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;However difficult life may seem, there is always something you can do and succeed at.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+### <blockquote>&ldquo;True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/10/2026, 2:22:58 AM`
+`Last Updated: 2/11/2026, 2:12:10 AM`

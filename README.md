@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+### <blockquote>&ldquo;The big thing is to make a winning effort. I'm not obsessed with wins.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/11/2026, 2:12:10 AM`
+`Last Updated: 2/12/2026, 2:05:51 AM`

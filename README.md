@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The big thing is to make a winning effort. I'm not obsessed with wins.&rdquo; &mdash; <footer>Morgan Wootten</footer></blockquote>
+### <blockquote>&ldquo;Every act of creation is first an act of destruction.&rdquo; &mdash; <footer>Pablo Picasso</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/12/2026, 2:05:51 AM`
+`Last Updated: 2/13/2026, 2:08:40 AM`

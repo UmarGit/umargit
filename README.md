@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to.&rdquo; &mdash; <footer>Kahlil Gibran</footer></blockquote>
+### <blockquote>&ldquo;Words are the clothing of our thoughts.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/14/2026, 1:57:23 AM`
+`Last Updated: 2/15/2026, 2:08:04 AM`

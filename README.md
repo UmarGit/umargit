@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Words are the clothing of our thoughts.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+### <blockquote>&ldquo;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/15/2026, 2:08:04 AM`
+`Last Updated: 2/16/2026, 2:03:50 AM`

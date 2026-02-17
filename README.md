@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+### <blockquote>&ldquo;If it's not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/16/2026, 2:03:50 AM`
+`Last Updated: 2/17/2026, 2:01:20 AM`

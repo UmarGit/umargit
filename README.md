@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If it's not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+### <blockquote>&ldquo;You can't climb the ladder of success with your hands in your pockets.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/17/2026, 2:01:20 AM`
+`Last Updated: 2/18/2026, 2:05:18 AM`

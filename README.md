@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;You can't climb the ladder of success with your hands in your pockets.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>
+### <blockquote>&ldquo;When you've got nothing, you've got nothing to lose.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/18/2026, 2:05:18 AM`
+`Last Updated: 2/19/2026, 2:03:52 AM`

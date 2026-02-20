@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;When you've got nothing, you've got nothing to lose.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>
+### <blockquote>&ldquo;Few things are more deceptive than memories.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/19/2026, 2:03:52 AM`
+`Last Updated: 2/20/2026, 1:59:48 AM`

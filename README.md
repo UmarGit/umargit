@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Few things are more deceptive than memories.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>
+### <blockquote>&ldquo;Before you embark on a journey of revenge, dig two graves. &rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/20/2026, 1:59:48 AM`
+`Last Updated: 2/21/2026, 1:54:47 AM`

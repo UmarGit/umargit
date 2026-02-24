@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Friends ask you questions; enemies question you.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+### <blockquote>&ldquo;Learning never exhausts the mind. &rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/23/2026, 2:04:42 AM`
+`Last Updated: 2/24/2026, 2:01:01 AM`

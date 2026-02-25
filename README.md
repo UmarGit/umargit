@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Learning never exhausts the mind. &rdquo; &mdash; <footer>Leonardo da Vinci</footer></blockquote>
+### <blockquote>&ldquo;All human beings can alter their lives by altering their attitudes.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/24/2026, 2:01:01 AM`
+`Last Updated: 2/25/2026, 2:03:20 AM`

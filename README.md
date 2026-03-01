@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The health of nations is more important than the wealth of nations.&rdquo; &mdash; <footer>Will Rogers</footer></blockquote>
+### <blockquote>&ldquo;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 2/28/2026, 1:48:48 AM`
+`Last Updated: 3/1/2026, 2:10:33 AM`

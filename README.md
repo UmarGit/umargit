@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
+### <blockquote>&ldquo;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/1/2026, 2:10:33 AM`
+`Last Updated: 3/2/2026, 2:01:37 AM`

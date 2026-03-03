@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>
+### <blockquote>&ldquo;Success is not final, failure is not fatal: it is the courage to continue that counts.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/2/2026, 2:01:37 AM`
+`Last Updated: 3/3/2026, 2:03:16 AM`

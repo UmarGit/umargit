@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Success is not final, failure is not fatal: it is the courage to continue that counts.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>
+### <blockquote>&ldquo;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/3/2026, 2:03:16 AM`
+`Last Updated: 3/4/2026, 1:57:25 AM`

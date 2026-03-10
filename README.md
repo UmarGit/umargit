@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Mind is the creator of everything. You should therefore guide it to create only good.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
+### <blockquote>&ldquo;Your imagination is your preview of life's coming attractions.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/9/2026, 2:03:14 AM`
+`Last Updated: 3/10/2026, 1:55:28 AM`

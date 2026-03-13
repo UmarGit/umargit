@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;It is easy to discover what another has discovered before.&rdquo; &mdash; <footer>Christopher Columbus</footer></blockquote>
+### <blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/12/2026, 2:01:22 AM`
+`Last Updated: 3/13/2026, 1:59:08 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;He who is not contented with what he has, would not be contented with what he would like to have.&rdquo; &mdash; <footer>Socrates</footer></blockquote>
+### <blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/13/2026, 1:59:08 AM`
+`Last Updated: 3/14/2026, 1:56:32 AM`

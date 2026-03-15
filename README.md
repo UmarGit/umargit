@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>
+### <blockquote>&ldquo;Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/14/2026, 1:56:32 AM`
+`Last Updated: 3/15/2026, 2:21:37 AM`

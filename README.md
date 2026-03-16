@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Conscience is a dog that does not stop us from passing but that we cannot prevent from barking.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+### <blockquote>&ldquo;Not how long, but how well you have lived is the main thing.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/15/2026, 2:21:37 AM`
+`Last Updated: 3/16/2026, 2:22:54 AM`

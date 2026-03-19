@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The best mind-altering drug is the truth.&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>
+### <blockquote>&ldquo;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/18/2026, 2:06:07 AM`
+`Last Updated: 3/19/2026, 2:06:55 AM`

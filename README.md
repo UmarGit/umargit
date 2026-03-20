@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;Without education, we are in a horrible and deadly danger of taking educated people seriously.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/19/2026, 2:06:55 AM`
+`Last Updated: 3/20/2026, 2:01:01 AM`

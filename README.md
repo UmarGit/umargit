@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Each of us is a unique strand in the intricate web of life and here to make a contribution.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>
+### <blockquote>&ldquo;The most difficult times for many of us are the ones we give ourselves.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/22/2026, 2:07:30 AM`
+`Last Updated: 3/23/2026, 2:08:21 AM`

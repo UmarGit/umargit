@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The most difficult times for many of us are the ones we give ourselves.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>
+### <blockquote>&ldquo;See what you're doing wrong, laugh at it, change and do better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/23/2026, 2:08:21 AM`
+`Last Updated: 3/24/2026, 2:00:09 AM`

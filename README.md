@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;See what you're doing wrong, laugh at it, change and do better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+### <blockquote>&ldquo;Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/24/2026, 2:00:09 AM`
+`Last Updated: 3/25/2026, 2:05:41 AM`

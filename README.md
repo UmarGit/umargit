@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;We meet ourselves time and again in a thousand disguises on the path of life.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>
+### <blockquote>&ldquo;Nothing has any power over me other than that which I give it through my conscious thoughts.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/27/2026, 2:12:57 AM`
+`Last Updated: 3/28/2026, 2:03:59 AM`

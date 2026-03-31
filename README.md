@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Do not follow the ideas of others, but learn to listen to the voice within yourself.&rdquo; &mdash; <footer>Dogen</footer></blockquote>
+### <blockquote>&ldquo;A Quitter never wins - and - a Winner never quits.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 3/30/2026, 2:25:55 AM`
+`Last Updated: 3/31/2026, 2:21:07 AM`

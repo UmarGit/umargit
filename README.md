@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Sometimes a change of perspective is all it takes to see the light.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>
+### <blockquote>&ldquo;Seek not the good in external things;seek it in yourselves.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/1/2026, 2:30:39 AM`
+`Last Updated: 4/2/2026, 2:09:49 AM`

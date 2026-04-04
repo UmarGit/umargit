@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;To succeed takes more than the desire to win. It also takes the acceptance that we could fail.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+### <blockquote>&ldquo;Quiet people have the loudest minds.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/3/2026, 2:11:10 AM`
+`Last Updated: 4/4/2026, 2:04:12 AM`

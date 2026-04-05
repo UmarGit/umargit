@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Quiet people have the loudest minds.&rdquo; &mdash; <footer>Stephen Hawking</footer></blockquote>
+### <blockquote>&ldquo;Lust, anger and greed are the three gates to self-destructive hell.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/4/2026, 2:04:12 AM`
+`Last Updated: 4/5/2026, 2:25:31 AM`

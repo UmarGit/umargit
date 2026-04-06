@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Lust, anger and greed are the three gates to self-destructive hell.&rdquo; &mdash; <footer>Bhagavad Gita</footer></blockquote>
+### <blockquote>&ldquo;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/5/2026, 2:25:31 AM`
+`Last Updated: 4/6/2026, 2:26:41 AM`

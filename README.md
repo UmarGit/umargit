@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>
+### <blockquote>&ldquo;We must cultivate our garden. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/6/2026, 2:26:41 AM`
+`Last Updated: 4/7/2026, 2:22:03 AM`

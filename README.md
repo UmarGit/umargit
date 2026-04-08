@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;We must cultivate our garden. &rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+### <blockquote>&ldquo;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/7/2026, 2:22:03 AM`
+`Last Updated: 4/8/2026, 2:22:58 AM`

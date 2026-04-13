@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Some people find fault like there is a reward for it.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/12/2026, 2:30:22 AM`
+`Last Updated: 4/13/2026, 2:35:25 AM`

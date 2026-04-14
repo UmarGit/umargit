@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+### <blockquote>&ldquo;Selfishness and greed, individual or national, cause most of our troubles.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/13/2026, 2:35:25 AM`
+`Last Updated: 4/14/2026, 2:29:05 AM`

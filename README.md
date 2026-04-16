@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Love never keeps a man from pursuing his destiny.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+### <blockquote>&ldquo;You become stronger with every problem you face and every obstacle you overcome.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/15/2026, 2:27:29 AM`
+`Last Updated: 4/16/2026, 2:34:07 AM`

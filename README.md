@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A goal is a dream with a deadline.&rdquo; &mdash; <footer>Napoleon Hill</footer></blockquote>
+### <blockquote>&ldquo;Waste no more time arguing about what a good man should be. Be one.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/17/2026, 2:30:04 AM`
+`Last Updated: 4/18/2026, 2:20:39 AM`

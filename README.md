@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Waste no more time arguing about what a good man should be. Be one.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
+### <blockquote>&ldquo;Life is too short to waste your time on people who don't respect, appreciate, and value you.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/18/2026, 2:20:39 AM`
+`Last Updated: 4/19/2026, 2:34:59 AM`

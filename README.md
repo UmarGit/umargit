@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
+### <blockquote>&ldquo;Do something to move yourself toward your major goal every day.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/20/2026, 2:35:40 AM`
+`Last Updated: 4/21/2026, 2:31:11 AM`

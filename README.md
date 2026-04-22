@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Do something to move yourself toward your major goal every day.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+### <blockquote>&ldquo;Each time we don't say what we wanna say, we're dying.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/21/2026, 2:31:11 AM`
+`Last Updated: 4/22/2026, 2:29:15 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Each time we don't say what we wanna say, we're dying.&rdquo; &mdash; <footer>Yoko Ono</footer></blockquote>
+### <blockquote>&ldquo;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&rdquo; &mdash; <footer>Robert Frost</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/22/2026, 2:29:15 AM`
+`Last Updated: 4/23/2026, 2:32:46 AM`

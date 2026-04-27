@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If you can see it in your mind, you can hold it in your mind.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; &mdash; <footer>Bruce Lee</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/26/2026, 2:38:21 AM`
+`Last Updated: 4/27/2026, 2:40:43 AM`

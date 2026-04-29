@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Your mind is infinite, it's your doubts that are limiting.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
+### <blockquote>&ldquo;The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/28/2026, 2:48:14 AM`
+`Last Updated: 4/29/2026, 2:47:07 AM`

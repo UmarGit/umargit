@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Try all things, hold fast that which is good.&rdquo; &mdash; <footer>John Locke</footer></blockquote>
+### <blockquote>&ldquo;Your worth consists in what you are and not in what you have.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 4/30/2026, 2:49:05 AM`
+`Last Updated: 5/1/2026, 2:55:26 AM`

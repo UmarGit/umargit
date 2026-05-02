@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Your worth consists in what you are and not in what you have.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+### <blockquote>&ldquo;He who knows how to wait need make no concessions.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/1/2026, 2:55:26 AM`
+`Last Updated: 5/2/2026, 2:36:37 AM`

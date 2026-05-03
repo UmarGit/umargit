@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;He who knows how to wait need make no concessions.&rdquo; &mdash; <footer>Sigmund Freud</footer></blockquote>
+### <blockquote>&ldquo;Confidence is what you have before you understand the problem.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/2/2026, 2:36:37 AM`
+`Last Updated: 5/3/2026, 2:48:14 AM`

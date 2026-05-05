@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;There is no path to Love. Love is the path.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+### <blockquote>&ldquo;The people who succeed are irrationally passionate about something.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/4/2026, 2:45:39 AM`
+`Last Updated: 5/5/2026, 2:38:30 AM`

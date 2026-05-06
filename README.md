@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The people who succeed are irrationally passionate about something.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
+### <blockquote>&ldquo;Often in the real world, it's not the smart that get ahead, but the bold.&rdquo; &mdash; <footer>Robert Kiyosaki</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/5/2026, 2:38:30 AM`
+`Last Updated: 5/6/2026, 2:43:28 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&rdquo; &mdash; <footer>Sydney Smith</footer></blockquote>
+### <blockquote>&ldquo;Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/8/2026, 2:49:14 AM`
+`Last Updated: 5/9/2026, 2:43:39 AM`

@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Growth is in a series of mistakes. That's the only way you learn.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;To be totally at leisure for one day is to be immortal for one day. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/13/2026, 2:55:42 AM`
+`Last Updated: 5/14/2026, 3:20:41 AM`

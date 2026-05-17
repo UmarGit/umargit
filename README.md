@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;We are all self-made, but only the successful will admit it.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+### <blockquote>&ldquo;If I cannot do great things. I can do small things in a great way.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/16/2026, 2:47:52 AM`
+`Last Updated: 5/17/2026, 2:56:42 AM`

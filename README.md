@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If I cannot do great things. I can do small things in a great way.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+### <blockquote>&ldquo;Life is like stepping onto a boat which is about to sail out to sea and sink.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/17/2026, 2:56:42 AM`
+`Last Updated: 5/18/2026, 3:34:34 AM`

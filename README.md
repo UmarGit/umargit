@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;When you are tough on yourself, life is going to be infinitely easier on you.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;Our attitude toward life determines life&#039;s attitude towards us.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/23/2026, 2:51:09 AM`
+`Last Updated: 5/24/2026, 3:30:09 AM`

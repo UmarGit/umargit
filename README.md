@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Our attitude toward life determines life&#039;s attitude towards us.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+### <blockquote>&ldquo;It is not what we get. But who we become, what we contribute... that gives meaning to our lives.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/24/2026, 3:30:09 AM`
+`Last Updated: 5/25/2026, 3:41:04 AM`

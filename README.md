@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Surrender to what is. Let go of what was. Have faith in what will be.&rdquo; &mdash; <footer>Sonia Ricotti</footer></blockquote>
+### <blockquote>&ldquo;Choose a job you love, and you will never have to work a day in your life.&rdquo; &mdash; <footer>Confucius</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/28/2026, 3:29:30 AM`
+`Last Updated: 5/30/2026, 2:55:53 AM`

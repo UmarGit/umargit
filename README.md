@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A clever person turns great troubles into little ones, and little ones into none at all.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
+### <blockquote>&ldquo;When you are tough on yourself, life is going to be infinitely easier on you.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 5/31/2026, 3:42:00 AM`
+`Last Updated: 6/1/2026, 3:56:42 AM`

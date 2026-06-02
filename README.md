@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;When you are tough on yourself, life is going to be infinitely easier on you.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;If I persist long enough I will win.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/1/2026, 3:56:42 AM`
+`Last Updated: 6/2/2026, 3:52:31 AM`

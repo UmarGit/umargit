@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If I persist long enough I will win.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+### <blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/2/2026, 3:52:31 AM`
+`Last Updated: 6/3/2026, 3:58:37 AM`

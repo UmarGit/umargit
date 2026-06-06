@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;I skate to where the puck is going to be, not where it has been.&rdquo; &mdash; <footer>Wayne Gretzky</footer></blockquote>
+### <blockquote>&ldquo;One must be poor to know the luxury of giving.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/5/2026, 3:38:37 AM`
+`Last Updated: 6/6/2026, 3:21:49 AM`

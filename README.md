@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;One must be poor to know the luxury of giving.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
+### <blockquote>&ldquo;The only way to do great work is to love what you do.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/6/2026, 3:21:49 AM`
+`Last Updated: 6/7/2026, 3:49:01 AM`

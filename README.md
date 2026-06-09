@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The best time to plant a tree was 20 years ago. The second best time is now.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>
+### <blockquote>&ldquo;Avoiding danger is no safer in the long run than exposure.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/8/2026, 3:54:38 AM`
+`Last Updated: 6/9/2026, 2:57:44 AM`

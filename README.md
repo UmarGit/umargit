@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Avoiding danger is no safer in the long run than exposure.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>
+### <blockquote>&ldquo;To every action there is always opposed an equal reaction.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/9/2026, 2:57:44 AM`
+`Last Updated: 6/10/2026, 3:36:08 AM`

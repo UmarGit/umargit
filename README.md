@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;To every action there is always opposed an equal reaction.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+### <blockquote>&ldquo;Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/10/2026, 3:36:08 AM`
+`Last Updated: 6/11/2026, 3:53:28 AM`

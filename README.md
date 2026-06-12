@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be.&rdquo; &mdash; <footer>Miguel de Cervantes</footer></blockquote>
+### <blockquote>&ldquo;Never confuse a single defeat with a final defeat.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/11/2026, 3:53:28 AM`
+`Last Updated: 6/12/2026, 3:51:24 AM`

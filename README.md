@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Give me six hours to chop down a tree and I will spend the first four sharpening the axe.&rdquo; &mdash; <footer>Abraham Lincoln</footer></blockquote>
+### <blockquote>&ldquo;Everybody&#039;s life is either rewarding or an example.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/17/2026, 4:00:39 AM`
+`Last Updated: 6/18/2026, 3:51:51 AM`

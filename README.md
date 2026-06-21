@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;This is the most simple and basic component of life: our struggles determine our successes.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>
+### <blockquote>&ldquo;Rest when you&#039;re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/20/2026, 3:33:40 AM`
+`Last Updated: 6/21/2026, 4:05:32 AM`

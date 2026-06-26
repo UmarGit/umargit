@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+### <blockquote>&ldquo;The highest form of ignorance is when you reject something you don&#039;t know anything about.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/25/2026, 10:19:56 AM`
+`Last Updated: 6/26/2026, 3:34:52 AM`

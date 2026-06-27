@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The highest form of ignorance is when you reject something you don&#039;t know anything about.&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>
+### <blockquote>&ldquo;If there is a book that you want to read, but it hasn&#039;t been written yet, then you must write it.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/26/2026, 3:34:52 AM`
+`Last Updated: 6/27/2026, 2:57:12 AM`

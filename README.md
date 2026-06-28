@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If there is a book that you want to read, but it hasn&#039;t been written yet, then you must write it.&rdquo; &mdash; <footer>Toni Morrison</footer></blockquote>
+### <blockquote>&ldquo;If you do not get the chills when you set your goal you&#039;re not setting big enough goals.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/27/2026, 2:57:12 AM`
+`Last Updated: 6/28/2026, 3:40:18 AM`

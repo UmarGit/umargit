@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Relax. Nothing is under control.&rdquo; &mdash; <footer>Adi Da Samraj</footer></blockquote>
+### <blockquote>&ldquo;I want the fishing rod, not the fish.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 6/29/2026, 3:46:45 AM`
+`Last Updated: 6/30/2026, 3:33:19 AM`

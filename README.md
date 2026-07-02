@@ -17,7 +17,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Focus on how far you have come in life rather than looking at the accomplishments of others.&rdquo; &mdash; <footer>Lolly Daskal</footer></blockquote>
+### <blockquote>&ldquo;Invest in as much of yourself as you can, you are your own biggest asset by far.&rdquo; &mdash; <footer>Warren Buffett</footer></blockquote>
 
 ---
 
@@ -38,4 +38,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/1/2026, 3:42:01 AM`
+`Last Updated: 7/2/2026, 3:27:56 AM`

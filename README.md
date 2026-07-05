@@ -7,17 +7,18 @@
 
 ### About me
 
-* I’m a Research Engineer and Masters student in Big Data and Machine Learning at ITMO University
-* My work spans distributed systems, computer vision, quantum and reversible computing, and large scale backend architectures
-* I build production systems using Python, FastAPI, Docker, Kubernetes, and TypeScript
-* Previously a Senior Software Engineer at Aeroglobe and Engineer at Webnorth
-* Community Lead for Google Developer Group, training over 10,000 developers and organizing AI focused events
+* 🔭 Currently building **[Cuyor](https://github.com/cuyor)** — an AI-driven UI guidance system and on-screen mentor
+* 🎓 Recent Master's graduate in Big Data and Machine Learning from ITMO University
+* 🔬 Research Engineer at the National Center for Cognitive Development and AI Faculty (ITMO), focusing on Quantum Machine Learning, Kernel Methods, and Neuromorphic Computing
+* 💻 I build production-grade distributed systems and large-scale backend architectures using Python, FastAPI, Docker, Kubernetes, and TypeScript
+* 🏢 Previously a Senior Software Engineer at Aeroglobe
+* 🌍 Community Lead for Google Developer Group, training over 10,000 developers and organizing AI-focused events
 
 ---
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Common sense is not so common.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>
+### <blockquote>&ldquo;Great things happen to those who don&#039;t stop believing, trying, learning, and being grateful.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 ---
 
@@ -38,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/5/2026, 2:57:20 AM`
+`Last Updated: 7/5/2026, 9:19:27 PM`

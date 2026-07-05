@@ -7,11 +7,12 @@
 
 ### About me
 
-* I’m a Research Engineer and Masters student in Big Data and Machine Learning at ITMO University
-* My work spans distributed systems, computer vision, quantum and reversible computing, and large scale backend architectures
-* I build production systems using Python, FastAPI, Docker, Kubernetes, and TypeScript
-* Previously a Senior Software Engineer at Aeroglobe and Engineer at Webnorth
-* Community Lead for Google Developer Group, training over 10,000 developers and organizing AI focused events
+* 🔭 Currently building **[Cuyor](https://github.com/cuyor)** — an AI-driven UI guidance system and on-screen mentor
+* 🎓 Recent Master's graduate in Big Data and Machine Learning from ITMO University
+* 🔬 Research Engineer at the National Center for Cognitive Development and AI Faculty (ITMO), focusing on Quantum Machine Learning, Kernel Methods, and Neuromorphic Computing
+* 💻 I build production-grade distributed systems and large-scale backend architectures using Python, FastAPI, Docker, Kubernetes, and TypeScript
+* 🏢 Previously a Senior Software Engineer at Aeroglobe
+* 🌍 Community Lead for Google Developer Group, training over 10,000 developers and organizing AI-focused events
 
 ---
 

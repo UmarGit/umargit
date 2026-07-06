@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Great things happen to those who don&#039;t stop believing, trying, learning, and being grateful.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+### <blockquote>&ldquo;Only the educated are free.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/5/2026, 9:19:27 PM`
+`Last Updated: 7/6/2026, 3:24:12 AM`

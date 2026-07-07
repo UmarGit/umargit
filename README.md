@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Only the educated are free.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
+### <blockquote>&ldquo;Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/6/2026, 3:24:12 AM`
+`Last Updated: 7/7/2026, 2:57:15 AM`

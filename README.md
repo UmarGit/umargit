@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+### <blockquote>&ldquo;Shoot for the moon, because even if you miss, you&#039;ll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/7/2026, 2:57:15 AM`
+`Last Updated: 7/8/2026, 2:33:08 AM`

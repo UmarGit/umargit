@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Shoot for the moon, because even if you miss, you&#039;ll land among the stars.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>
+### <blockquote>&ldquo;The idea of ourselves is our escape from the fact of what we really are.&rdquo; &mdash; <footer>Jiddu Krishnamurti</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/8/2026, 2:33:08 AM`
+`Last Updated: 7/9/2026, 2:51:38 AM`

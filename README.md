@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.&rdquo; &mdash; <footer>T.S. Eliot</footer></blockquote>
+### <blockquote>&ldquo;No one can compete with you on being you. Most of life is a search for who and what needs you the most.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/10/2026, 2:54:04 AM`
+`Last Updated: 7/11/2026, 2:31:12 AM`

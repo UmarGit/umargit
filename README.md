@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Successful people are not without problems. They&#039;re simply people who&#039;ve learned to solve their problems.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+### <blockquote>&ldquo;Just do what must be done. This may not be happiness but it is greatness.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/16/2026, 2:28:19 AM`
+`Last Updated: 7/17/2026, 2:31:01 AM`

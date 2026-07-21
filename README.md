@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Do good by stealth, and blush to find it fame.&rdquo; &mdash; <footer>Alexander Pope</footer></blockquote>
+### <blockquote>&ldquo;Success does not consist in never making mistakes but in never making the same one a second time.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/20/2026, 2:48:49 AM`
+`Last Updated: 7/21/2026, 2:32:15 AM`

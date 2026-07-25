@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+### <blockquote>&ldquo;There is no truth. There is only perception.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/24/2026, 2:32:18 AM`
+`Last Updated: 7/25/2026, 2:30:55 AM`

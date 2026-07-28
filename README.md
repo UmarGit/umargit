@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Life is all about mistakes. It is constant change and growth.&rdquo; &mdash; <footer>Neale Donald Walsch</footer></blockquote>
+### <blockquote>&ldquo;Try to be a rainbow in someone&#039;s cloud.&rdquo; &mdash; <footer>Maya Angelou</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/27/2026, 2:46:44 AM`
+`Last Updated: 7/28/2026, 2:25:21 AM`

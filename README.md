@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Life is like a beautiful melody, only the lyrics are messed up.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
+### <blockquote>&ldquo;It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 7/30/2026, 2:11:51 AM`
+`Last Updated: 7/31/2026, 2:40:33 AM`

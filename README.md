@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; &mdash; <footer>Thomas Edison</footer></blockquote>
+### <blockquote>&ldquo;The world would go on even without you. Don&#039;t take yourself so seriously.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/1/2026, 2:39:12 AM`
+`Last Updated: 8/2/2026, 2:37:48 AM`

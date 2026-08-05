@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Believe nothing you hear, and only one half that you see.&rdquo; &mdash; <footer>Edgar Allan Poe</footer></blockquote>
+### <blockquote>&ldquo;No matter how tall the mountain is, it cannot block the sun.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/4/2026, 2:23:38 AM`
+`Last Updated: 8/5/2026, 2:22:59 AM`

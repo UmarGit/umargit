@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The final mystery is oneself.&rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>
+### <blockquote>&ldquo;If no one ever broke the rules, then we&#039;d never advance.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/6/2026, 2:25:46 AM`
+`Last Updated: 8/7/2026, 2:34:32 AM`

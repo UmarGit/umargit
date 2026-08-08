@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If no one ever broke the rules, then we&#039;d never advance.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
+### <blockquote>&ldquo;Looking after my health today gives me a better hope for tomorrow.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/7/2026, 2:34:32 AM`
+`Last Updated: 8/8/2026, 1:24:40 AM`

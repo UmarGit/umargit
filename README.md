@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;In the long run, the sharpest weapon of all is a kind and gentle spirit.&rdquo; &mdash; <footer>Anne Frank</footer></blockquote>
+### <blockquote>&ldquo;The fact of the matter is that there will be nothing learned from any challenge in which we don&#039;t try our hardest.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/9/2026, 1:37:03 AM`
+`Last Updated: 8/10/2026, 1:40:10 AM`

@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Anyone who reads a book with a sense of obligation does not understand the art of reading.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
+### <blockquote>&ldquo;No need to hurry. No need to sparkle. No need to be anybody but oneself.&rdquo; &mdash; <footer>Virginia Woolf</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/11/2026, 1:36:57 AM`
+`Last Updated: 8/12/2026, 1:47:44 AM`

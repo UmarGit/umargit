@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The saddest aspect of life is that there is no one on earth whose happiness is such that he won&#039;t sometimes wish he were dead rather than alive.&rdquo; &mdash; <footer>Herodotus</footer></blockquote>
+### <blockquote>&ldquo;The way to get started is to quit talking and begin doing.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/15/2026, 1:06:58 AM`
+`Last Updated: 8/16/2026, 1:11:18 AM`

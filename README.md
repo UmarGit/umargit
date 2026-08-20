@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If you want to be successful, you have to jump, there&#039;s no way around it.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;Your greatest asset is your earning ability. Your greatest resource is your time.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/19/2026, 1:07:39 AM`
+`Last Updated: 8/20/2026, 1:06:40 AM`

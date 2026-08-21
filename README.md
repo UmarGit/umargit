@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Your greatest asset is your earning ability. Your greatest resource is your time.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>
+### <blockquote>&ldquo;Not how long, but how well you have lived is the main thing.&rdquo; &mdash; <footer>Seneca</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/20/2026, 1:06:40 AM`
+`Last Updated: 8/21/2026, 1:10:39 AM`

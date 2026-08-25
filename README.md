@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;One mistake does not have to rule a person&#039;s entire life.&rdquo; &mdash; <footer>Joyce Meyer</footer></blockquote>
+### <blockquote>&ldquo;If you want to be successful, find someone who has achieved the results you want and copy what they do and you&#039;ll achieve the same results.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/24/2026, 1:10:17 AM`
+`Last Updated: 8/25/2026, 1:08:54 AM`

@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+### <blockquote>&ldquo;Natural talent only determines the limits of your athletic potential. It&#039;s dedication and a willingness to discipline your life that makes you great.&rdquo; &mdash; <footer>Billie Jean King</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 8/30/2026, 3:44:48 AM`
+`Last Updated: 8/31/2026, 3:46:17 AM`

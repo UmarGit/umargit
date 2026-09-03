@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;He is not a lover who does not love forever.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+### <blockquote>&ldquo;Great things happen to those who don&#039;t stop believing, trying, learning, and being grateful.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/2/2026, 2:58:23 AM`
+`Last Updated: 9/3/2026, 3:00:51 AM`

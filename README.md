@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>
+### <blockquote>&ldquo;It&#039;s only after you&#039;ve stepped outside your comfort zone that you begin to change, grow, and transform.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/4/2026, 3:00:06 AM`
+`Last Updated: 9/5/2026, 3:01:48 AM`

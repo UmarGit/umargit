@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Life goes by fast. Enjoy it. Calm down. It&#039;s all funny.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>
+### <blockquote>&ldquo;Duty makes us do things well, but love makes us do them beautifully.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/6/2026, 3:01:22 AM`
+`Last Updated: 9/7/2026, 2:59:17 AM`

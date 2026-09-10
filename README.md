@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Learn to enjoy every minute of your life. Be happy now. Don&#039;t wait for something outside of yourself to make you happy in the future.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+### <blockquote>&ldquo;Life moves on and so should we.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/9/2026, 3:11:14 AM`
+`Last Updated: 9/10/2026, 3:10:52 AM`

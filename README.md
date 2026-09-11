@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Life moves on and so should we.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>
+### <blockquote>&ldquo;The smallest of actions is always better than the noblest of intentions.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/10/2026, 3:10:52 AM`
+`Last Updated: 9/11/2026, 3:06:27 AM`

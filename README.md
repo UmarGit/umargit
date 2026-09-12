@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The smallest of actions is always better than the noblest of intentions.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>
+### <blockquote>&ldquo;The only way to &#039;find out if it will work out&#039; is to do it.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/11/2026, 3:06:27 AM`
+`Last Updated: 9/12/2026, 3:12:34 AM`

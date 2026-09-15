@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A man who dares to waste one hour of time has not discovered the value of life.&rdquo; &mdash; <footer>Charles Darwin</footer></blockquote>
+### <blockquote>&ldquo;The way to get started is to quit talking and begin doing.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/14/2026, 3:28:22 AM`
+`Last Updated: 9/15/2026, 3:29:42 AM`

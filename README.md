@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The way to get started is to quit talking and begin doing.&rdquo; &mdash; <footer>Walt Disney</footer></blockquote>
+### <blockquote>&ldquo;It is the power of thought that gives man power over nature.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/15/2026, 3:29:42 AM`
+`Last Updated: 9/16/2026, 3:25:27 AM`

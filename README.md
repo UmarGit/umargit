@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The less you want, the richer you are. The more you need in order to be happy, the more miserable you&#039;ll be.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+### <blockquote>&ldquo;When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.&rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/18/2026, 3:17:15 AM`
+`Last Updated: 9/19/2026, 3:13:20 AM`

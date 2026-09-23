@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Keep away from people who try to belittle your ambitions.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>
+### <blockquote>&ldquo;It&#039;s not what happens to you, but how you react to it that matters.&rdquo; &mdash; <footer>Epictetus</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/22/2026, 3:24:22 AM`
+`Last Updated: 9/23/2026, 3:25:28 AM`

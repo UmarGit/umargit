@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If you quit once it becomes a habit.&rdquo; &mdash; <footer>Michael Jordan</footer></blockquote>
+### <blockquote>&ldquo;Whatever your heart clings to and confides in, that is really your God.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/25/2026, 3:32:18 AM`
+`Last Updated: 9/26/2026, 3:37:40 AM`

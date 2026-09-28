@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If you care about someone enough, you&#039;ll always be there for them no matter what.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>
+### <blockquote>&ldquo;Waste no more time arguing about what a good man should be. Be one.&rdquo; &mdash; <footer>Marcus Aurelius</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/27/2026, 3:46:40 AM`
+`Last Updated: 9/28/2026, 3:46:04 AM`

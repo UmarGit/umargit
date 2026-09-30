@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;You&#039;re only given a little spark of madness. You mustn&#039;t lose it.&rdquo; &mdash; <footer>Robin Williams</footer></blockquote>
+### <blockquote>&ldquo;The only thing we have to fear is fear itself.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/29/2026, 4:20:55 AM`
+`Last Updated: 9/30/2026, 4:04:17 AM`

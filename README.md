@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The only thing we have to fear is fear itself.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>
+### <blockquote>&ldquo;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 9/30/2026, 4:04:17 AM`
+`Last Updated: 10/1/2026, 4:16:20 AM`

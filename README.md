@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Be - don&#039;t try to become&rdquo; &mdash; <footer>Osho</footer></blockquote>
+### <blockquote>&ldquo;Great loves too must be endured.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/2/2026, 4:09:23 AM`
+`Last Updated: 10/3/2026, 3:52:21 AM`

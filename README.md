@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The time is always right to do what is right.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>
+### <blockquote>&ldquo;You can&#039;t wait for inspiration. You have to go after it with a club.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/4/2026, 4:24:04 AM`
+`Last Updated: 10/5/2026, 4:09:43 AM`

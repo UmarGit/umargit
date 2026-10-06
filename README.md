@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;You can&#039;t wait for inspiration. You have to go after it with a club.&rdquo; &mdash; <footer>Jack London</footer></blockquote>
+### <blockquote>&ldquo;To travel is to be alive, but to get somewhere is to be dead.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/5/2026, 4:09:43 AM`
+`Last Updated: 10/6/2026, 4:58:26 AM`

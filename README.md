@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;To travel is to be alive, but to get somewhere is to be dead.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>
+### <blockquote>&ldquo;A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/6/2026, 4:58:26 AM`
+`Last Updated: 10/7/2026, 4:25:20 AM`

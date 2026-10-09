@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;You must welcome change as the rule but not as your ruler.&rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>
+### <blockquote>&ldquo;Giving back involves a certain amount of giving up.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/8/2026, 4:36:32 AM`
+`Last Updated: 10/9/2026, 4:39:45 AM`

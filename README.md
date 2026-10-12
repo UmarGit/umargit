@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The ability to hold two competing thoughts in one&#039;s mind and still be able to function is the mark of a superior mind.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>
+### <blockquote>&ldquo;In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/11/2026, 4:07:17 AM`
+`Last Updated: 10/12/2026, 4:25:56 AM`

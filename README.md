@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.&rdquo; &mdash; <footer>James Allen</footer></blockquote>
+### <blockquote>&ldquo;Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/12/2026, 4:25:56 AM`
+`Last Updated: 10/13/2026, 5:33:51 AM`

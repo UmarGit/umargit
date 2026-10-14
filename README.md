@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.&rdquo; &mdash; <footer>Og Mandino</footer></blockquote>
+### <blockquote>&ldquo;Don&#039;t spend time beating on a wall, hoping to transform it into a door.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/13/2026, 5:33:51 AM`
+`Last Updated: 10/14/2026, 3:36:56 AM`

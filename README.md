@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Don&#039;t spend time beating on a wall, hoping to transform it into a door.&rdquo; &mdash; <footer>Coco Chanel</footer></blockquote>
+### <blockquote>&ldquo;If ever you feel like an animal among men, be a lion.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/14/2026, 3:36:56 AM`
+`Last Updated: 10/15/2026, 3:17:20 AM`

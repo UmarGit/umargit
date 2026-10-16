@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If ever you feel like an animal among men, be a lion.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>
+### <blockquote>&ldquo;Forever is composed of now&#039;s.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/15/2026, 3:17:20 AM`
+`Last Updated: 10/16/2026, 3:12:51 AM`

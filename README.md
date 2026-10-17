@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Forever is composed of now&#039;s.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>
+### <blockquote>&ldquo;Everything that is made beautiful and fair and lovely is made for the eye of one who sees.&rdquo; &mdash; <footer>Rumi</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/16/2026, 3:12:51 AM`
+`Last Updated: 10/17/2026, 3:04:09 AM`

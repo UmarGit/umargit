@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;When you love someone, you love the person as they are, and not as you&#039;d like them to be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>
+### <blockquote>&ldquo;Peace of mind is that mental condition in which you have accepted the worst.&rdquo; &mdash; <footer>Lin Yutang</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/19/2026, 3:20:09 AM`
+`Last Updated: 10/20/2026, 3:29:09 AM`

@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Some people find fault like there is a reward for it.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>
+### <blockquote>&ldquo;If we are not able to smile, then the world will not have peace.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/21/2026, 3:23:27 AM`
+`Last Updated: 10/22/2026, 3:22:40 AM`

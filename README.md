@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If we are not able to smile, then the world will not have peace.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>
+### <blockquote>&ldquo;Think how really precious is the time you have to spend, whether it&#039;s at work or with your family. Every minute should be enjoyed and savored.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/22/2026, 3:22:40 AM`
+`Last Updated: 10/23/2026, 3:27:20 AM`

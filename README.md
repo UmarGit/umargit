@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Think how really precious is the time you have to spend, whether it&#039;s at work or with your family. Every minute should be enjoyed and savored.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>
+### <blockquote>&ldquo;Don&#039;t be afraid to give up the good to go for the great.&rdquo; &mdash; <footer>Colin R. Davis</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/23/2026, 3:27:20 AM`
+`Last Updated: 10/24/2026, 3:22:03 AM`

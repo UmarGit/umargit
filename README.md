@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Be patient and calm; no one can catch fish in anger.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>
+### <blockquote>&ldquo;Here and now...breathe and relax...in battle and in life.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/25/2026, 3:17:11 AM`
+`Last Updated: 10/26/2026, 3:18:47 AM`

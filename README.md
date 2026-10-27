@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Here and now...breathe and relax...in battle and in life.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>
+### <blockquote>&ldquo;Only in the agony of parting do we look into the depths of love.&rdquo; &mdash; <footer>George Eliot</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/26/2026, 3:18:47 AM`
+`Last Updated: 10/27/2026, 3:47:14 AM`

@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;No one can confidently say that he will still be living tomorrow.&rdquo; &mdash; <footer>Euripides</footer></blockquote>
+### <blockquote>&ldquo;The biggest adventure you can ever take is to live the life of your dreams.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/30/2026, 4:28:12 AM`
+`Last Updated: 10/31/2026, 4:08:58 AM`

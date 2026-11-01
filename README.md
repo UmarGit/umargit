@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The biggest adventure you can ever take is to live the life of your dreams.&rdquo; &mdash; <footer>Oprah Winfrey</footer></blockquote>
+### <blockquote>&ldquo;Be brave. Take risks. Nothing can substitute experience.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 10/31/2026, 4:08:58 AM`
+`Last Updated: 11/1/2026, 4:29:53 AM`

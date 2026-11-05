@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Humor isn&#039;t for everyone. It&#039;s only for people who want to have fun, enjoy life, and feel alive.&rdquo; &mdash; <footer>Anne Wilson Schaef</footer></blockquote>
+### <blockquote>&ldquo;It isn&#039;t what you do, but how you do it.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/4/2026, 4:54:39 AM`
+`Last Updated: 11/5/2026, 5:13:13 AM`

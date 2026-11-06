@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;It isn&#039;t what you do, but how you do it.&rdquo; &mdash; <footer>John Wooden</footer></blockquote>
+### <blockquote>&ldquo;Never let the fear of striking out keep you from playing the game.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/5/2026, 5:13:13 AM`
+`Last Updated: 11/6/2026, 5:12:40 AM`

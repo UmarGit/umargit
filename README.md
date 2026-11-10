@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Never let the fear of striking out keep you from playing the game.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>
+### <blockquote>&ldquo;Be brave. Take risks. Nothing can substitute experience.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/6/2026, 5:12:40 AM`
+`Last Updated: 11/10/2026, 5:59:19 AM`

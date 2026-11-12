@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>
+### <blockquote>&ldquo;If it&#039;s not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/11/2026, 4:47:22 AM`
+`Last Updated: 11/12/2026, 5:49:37 AM`

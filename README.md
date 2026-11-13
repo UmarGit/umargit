@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;If it&#039;s not broken, tinker with it till you find out how it works.&rdquo; &mdash; <footer>Bob Proctor</footer></blockquote>
+### <blockquote>&ldquo;Numbing the pain for a while will make it worse when you finally feel it.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/12/2026, 5:49:37 AM`
+`Last Updated: 11/13/2026, 5:10:30 AM`

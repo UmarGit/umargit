@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Numbing the pain for a while will make it worse when you finally feel it.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>
+### <blockquote>&ldquo;A good stance and posture reflect a proper state of mind.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/13/2026, 5:10:30 AM`
+`Last Updated: 11/14/2026, 4:59:35 AM`

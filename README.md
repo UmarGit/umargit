@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A good stance and posture reflect a proper state of mind.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>
+### <blockquote>&ldquo;Money poisons you when you&#039;ve got it, and starves you when you haven&#039;t.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/14/2026, 4:59:35 AM`
+`Last Updated: 11/15/2026, 4:53:33 AM`

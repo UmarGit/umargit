@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Wake up and smile! Wake up and be grateful!&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>
+### <blockquote>&ldquo;We should not look back unless it is to derive useful lessons from past errors.&rdquo; &mdash; <footer>George Washington</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/16/2026, 4:49:56 AM`
+`Last Updated: 11/17/2026, 6:37:53 AM`

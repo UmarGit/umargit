@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;We should not look back unless it is to derive useful lessons from past errors.&rdquo; &mdash; <footer>George Washington</footer></blockquote>
+### <blockquote>&ldquo;The future is not a gift. It is an achievement.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/17/2026, 6:37:53 AM`
+`Last Updated: 11/18/2026, 5:57:47 AM`

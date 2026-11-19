@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The future is not a gift. It is an achievement.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>
+### <blockquote>&ldquo;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/18/2026, 5:57:47 AM`
+`Last Updated: 11/19/2026, 5:58:08 AM`

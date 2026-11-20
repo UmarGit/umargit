@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>
+### <blockquote>&ldquo;We must be free not because we claim freedom, but because we practice it.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/19/2026, 5:58:08 AM`
+`Last Updated: 11/20/2026, 5:47:15 AM`

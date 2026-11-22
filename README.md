@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;Perseverance and spirit have done wonders in all ages.&rdquo; &mdash; <footer>George Washington</footer></blockquote>
+### <blockquote>&ldquo;Shoot for the moon. Even if you miss, you&#039;ll land among the stars.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/21/2026, 5:42:15 AM`
+`Last Updated: 11/22/2026, 5:10:46 AM`

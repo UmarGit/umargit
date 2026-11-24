@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;A life without a cause is a life without effect.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>
+### <blockquote>&ldquo;The most important battle is one to conquer yourself.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/23/2026, 5:51:26 AM`
+`Last Updated: 11/24/2026, 8:29:18 AM`

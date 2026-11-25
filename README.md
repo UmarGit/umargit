@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;The most important battle is one to conquer yourself.&rdquo; &mdash; <footer>Yanni</footer></blockquote>
+### <blockquote>&ldquo;Educating the mind without educating the heart is no education at all.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/24/2026, 8:29:18 AM`
+`Last Updated: 11/25/2026, 7:03:15 AM`

@@ -18,7 +18,7 @@
 
 ## Quote of the day
 
-### <blockquote>&ldquo;No man is more cheated than the selfish man.&rdquo; &mdash; <footer>Henry Ward Beecher</footer></blockquote>
+### <blockquote>&ldquo;Be polite to all, but intimate with few.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>
 
 ---
 
@@ -39,4 +39,4 @@
 
 ![Updating the Readme every day](https://github.com/UmarGit/umargit/workflows/Update%20the%20Readme%20every%20day/badge.svg)
 
-`Last Updated: 11/27/2026, 6:49:10 AM`
+`Last Updated: 11/28/2026, 6:23:22 AM`
